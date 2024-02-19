@@ -1,0 +1,6 @@
+import io.netty.channel.socket.oio.OioServerSocketChannel;
+public class FunctionUse13816 {
+public void funcUse() {
+OioServerSocketChannel oioserversocketchannel = new OioServerSocketChannel();
+}
+}
